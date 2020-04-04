@@ -1,0 +1,3 @@
+Service,Route 53($),EC2-Instances($),EC2-Other($),CloudFront($),S3($),Budgets($),Key Management Service($),DynamoDB($),CloudWatch($),Total cost ($)
+Service Total,1.0007192,0.161,0.0078113409,0.0004276152,6.60989E-05,0,0,0,0,1.170024255
+2020-03-29,1.0007192,0.161,0.0078113409,0.0004276152,6.60989E-05,0,0,0,0,1.170024255
